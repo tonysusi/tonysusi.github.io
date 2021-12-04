@@ -113,6 +113,12 @@ p{
     flex-direction: column;
 }
 
+.icon--justathought{
+    display: block;
+    width: 24px;
+    margin: 0 4px;
+}
+
 .copy{
   display: flex;
   flex-direction: column;
