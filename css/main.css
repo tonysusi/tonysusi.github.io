@@ -78,6 +78,18 @@ p{
   padding: 0 24px;
 }
 
+.copy p {
+  padding-bottom: 2px;
+}
+
+.details{
+  width: 320px;
+}
+
+.details--line {
+  display: inline-flex;
+}
+
 .icon--justathought{
     display: block;
     width: 24px;
