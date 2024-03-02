@@ -1,38 +1,27 @@
 # **Tony Susi**
-tbc
 
-61a Galloway Street, Hamilton East
+Twenty years of experience in designing and developing websites and other digital items. Roles included designer, developer and now project manager. 
+
+Proudly served as employee #2 at my current start-up, contributing to its growth and success. 
+
+Looking for the next challenge to help another digital team to accomplish their goals.
+
+## Details
+61a Galloway Street
+Hamilton East, Hamilton, NZ
 Email: **<hi@tonysusi.co.nz>**
 Phone: **+64 220 614 234**
 Website: **[tonysusi.co.nz](tonysusi.co.nz)**
 
-||: [LinkedIn](https://www.linkedin.com/in/tonysusi) || : [Github](https://github.com/tonysusi) ||
+[LinkedIn](https://www.linkedin.com/in/tonysusi) | [Github](https://github.com/tonysusi)
 
-[[blank-line]]
-
-
-## Skills
-
-**Technical**
-`PHP`
-`MySQL, PostGRES, CosmoDB`
-`Microsoft Azure`
-`JS`
-`SCSS/CSS`
-`DevOps`
-`Terraform`
-`Node`
-`Git / Git-flow`
-`Figma / Adobe XD`
-`Serverless functions`
-
-**Project Management**
-`Agile`
-`Atlassian Jira / Confluence / Bitbucket`
-`Scrum / Kanban`
-[[blank-line]]
 
 ## Education
+
+### University of Waikato
+Waikato Management School
+**Graduate Certificate in Project Management**
+_March - November 2024_
 
 ### Te Wānanga o Aotearoa
 Mangakōtuktutku Campus, Hamilton
@@ -41,7 +30,6 @@ _Mar - Nov 2023_
 **Te Reo Māori Level 1 & 2**
 _Mar - Nov 2022_
 NZ QUALS
-[[blank-line]]
 
 ### Syracuse University
 Syracuse, New York
@@ -49,25 +37,42 @@ Syracuse, New York
 _1995 - 1999_
 Minor: Photography
 
-[[blank-line]]
+
+## Skills
+
+**Technical**
+`PHP`/ `Node`
+`MySQL, Postgres, CosmoDB`
+`Microsoft Azure`
+`JS`/`SCSS/CSS`
+`DevOps`/`Docker`/`Terraform`/`Bitbucket Pipelines`
+`Git / Git-flow`
+`Figma / Adobe XD`
+`Serverless functions`
+
+**Project Management**
+`Agile`
+`Atlassian Jira / Confluence / Bitbucket / Trello`
+`Scrum / Kanban`
+
 
 
 ## Work Experience
 
 ### Just a Thought
-->_Hamilton, NZ_
+_Hamilton, NZ_
 **Lead Developer / Project Manager**
-_Jul 2021 to Present_
+_April 2020 to Present_
 
-- Managing a junior developer with mentoring and sprint planning
-- Working with Freelancers
+- Managing development team with Agile process and mentoring
+- Working with freelancers
 - Represented the team as the digital lead
 - Project managed our course creation and rollout across multiple teams 
 - Increased course creation velocity from one in year one, to four in year two and on track for six in year three
-[[blank-line]]
+- Built our DevOps for our Azure Infrastructure with terraform 
 
 **Project Developer**
-_April 2018 to Jul 2021_
+_April 2018 to April 2020_
 
 - Building application from legacy code 
 - Finding new technological solutions
@@ -75,10 +80,9 @@ _April 2018 to Jul 2021_
 - Creating and building UX designs from Design teams brand guidelines
 
 
-[[blank-line]]
 
 ### Freelance
-->_Auckland & Hamilton, NZ_
+_Auckland & Hamilton, NZ_
 
 **Full Stack Engineer**
 _January 2017 to April 2018_
@@ -92,10 +96,9 @@ _**Clients:**  Weetbix, Simpson Grierson, Ocean Max, Local Roamer, DeLaval, F
 
 _**Agencies:**_  Blue Eyed Deer, Incognito Designs, Enlighten Designs, .99, King St, Beetle and Associates 
 
-[[blank-line]]
 
 ### FCB Aotearoa
-->_Auckland, NZ_
+_Auckland, NZ_
 **Senior Digital Designer / Developer**
 _November 2011 to December 2016_
 
@@ -112,11 +115,10 @@ Flash designer/developer and full-stack developer delivering display ads, EDMs, 
 
 _**Clients:**  Air New Zealand, Vodafone, UNICEF, Flight Centre, Mitre10, Pak n Save, Teach NZ, VW, Holden, IRD and ANZ_
 
-[[blank-line]]
 
 
 ### George Patterson  Y&R
-->_Sydney, AU_
+_Sydney, AU_
 
 **Creative Technologist**
 _January 2011 to October 2011_
@@ -126,10 +128,9 @@ _January 2011 to October 2011_
 
 _**Clients:** Artline, PwC, Avis, LG, Barilla, L’Occitane, The Australian and Virgin Atlantic_
 
-[[blank-line]]
 
 ### The Campaign Palace
-->_Sydney, AU_
+_Sydney, AU_
 
 **Rich Media Developer **
 _December 2009 to January 2011_
@@ -143,22 +144,20 @@ _August 2008 to July 2009_
 
 _**Clients:**  realestate.com.au, Bayer, Singapore Tourism, Bonds, Panasonic, RSCPA, Orgin and Dominos._
 
-[[blank-line]]
 
 ### XM Asia 
-->_Singapore_
+_Singapore_
 
 **Rich Media Developer**
-_August 2009 to Decmber 2009_
+_August 2009 to December 2009_
 
 - Designed and updated the HSBC  - Investment Education site 
 
 _**Clients:**  HSBC, HP and Exxon-Mobile_
 
-[[blank-line]]
 
 ### DRAFT FCB
-->_Melbourne, AU_
+_Melbourne, AU_
 **Freelance Art Director / Senior Designer**
 _January 2008 to May 2008_
 
@@ -167,10 +166,9 @@ _January 2008 to May 2008_
 
 _**Clients:**  Honda Singapore, Honda Australia and Lindt, Motorola._
 
-[[blank-line]]
 
 ### Freelance
-->_London, UK_
+_London, UK_
 **Freelance Web Developer**
 _May 2006 to December 2007_
 
@@ -178,10 +176,9 @@ _May 2006 to December 2007_
 
 _**Clients:**  TEQUILA\, EURO RSCG Skybridge, Publicis, Draft, Tullo Marshal Warren and FCBi_
 
-[[blank-line]]
 
 ### Publicis Chemistry 
-->_London, UK_
+_London, UK_
 **Web Designer**
 _February 2000 to May 2006_
 
@@ -189,13 +186,23 @@ _February 2000 to May 2006_
 
 _**Clients:**  Archers, Baileys, Bodyform, Dove, Microsoft, Slim.Fast, Sony,  Transport for London, Yell and Velvet._
 
-[[blank-line]]
 
-## Other Activites
+
+## Interests
+Traveling
+Futsal / Football
+Surfing
+Cooking
+Te Reo
+Following my home town teams
+
+
+## Other Activities
 ### Hillcrest United Football Club
-_March 2020 to Present_
-Board member 
-Equipment manager
+_July 2023 to Decemeber 2023
+Club President
+_March 2020 to July 2023
+Board member - Equipment manager
 
 ### MyFootballClub 
 _London, UK_
