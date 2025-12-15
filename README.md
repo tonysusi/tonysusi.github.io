@@ -21,7 +21,11 @@ Website: **[tonysusi.co.nz](tonysusi.co.nz)**
 ### University of Waikato
 Waikato Management School
 **Graduate Certificate in Project Management**
-_March - November 2024_
+_Mar - Nov 2024_
+
+### Scrum.org
+***Professional Scrum Master I***
+_Jun 2024_
 
 ### Te Wānanga o Aotearoa
 Mangakōtuktutku Campus, Hamilton
@@ -61,8 +65,8 @@ Minor: Photography
 
 ### Just a Thought
 _Hamilton, NZ_
-**Lead Developer / Project Manager**
-_April 2020 to Present_
+**Project Deilivery Lead**
+_April 2022 to Present_
 
 - Managing development team with Agile process and mentoring
 - Working with freelancers
@@ -72,7 +76,7 @@ _April 2020 to Present_
 - Built our DevOps for our Azure Infrastructure with terraform 
 
 **Project Developer**
-_April 2018 to April 2020_
+_April 2018 to April 2022_
 
 - Building application from legacy code 
 - Finding new technological solutions
@@ -210,7 +214,7 @@ _London, UK_
 _April to July 2007_    
 Designed the MyFootballClub launch website which brought together 32,000 football fans from 180 countries together in a crowd funding venture to raise over $2 million to purchase an English football club. MyFootballClub bought the lower league team Ebbsfleet United in 2007, ending a remarkable first season by winning the FA Trophy at Wembley. 
 
-###The official unofficial England 2006 World Cup Song 
+### The official unofficial England 2006 World Cup Song 
 _London, UK_
 **Web Designer/Developer**  
 _Dec 2005 to June 2006_
