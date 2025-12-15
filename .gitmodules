@@ -1,0 +1,3 @@
+[submodule "life-in-weeks"]
+	path = life-in-weeks
+	url = https://github.com/ginatrapani/life-in-weeks.git
