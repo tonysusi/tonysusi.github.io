@@ -1,0 +1,394 @@
+#
+# The first event should be birth.
+# The date should match start_date in content/index.md.
+#
+"1977-01-19":
+    - headline: "🐣 I was born"
+      description: "I entered the world at around 5am in Norwood, MA, USA, the oldest of 4."
+      based: "Norwood, MA"
+      doing: "I was tiny"
+
+# "1980-09-01":
+#     - headline: "🖍️ Kindergarten"
+#       description: "Went to Tiny Tot Schoolhouse, where Miss Mary and Miss Nini were my teachers."
+#       based: "Brooklyn"
+#       doing: "Kindergartner"
+#       association: "Tiny Tot Schoolhouse"
+
+# "1981-09-01":
+#     - headline: "📓 Elementary school"
+#       description: "Went to Catholic school, with uniforms, nuns, mass, and all."
+#       based: "Brooklyn"
+#       doing: "Student"
+#       association: "St. E"
+
+# "1984-04-01":
+#     - headline: "🖥️ First computer"
+#       description: "Dad loved gadgets and was ahead of his time when he bought us an IBM PCjr. Wrote my first BASIC programs on that machine, played the Keyboard Adventure easter egg game, Kings Quest and Space Quest, and drew a pixelated Van Halen logo with A."
+
+"1990-09-01":
+    - headline: "📚 High school"
+      description: "Public high school"
+      based: "Norwood, MA"
+      doing: "High school student"
+      association: "NHS"
+
+"1994-09-09":
+    - headline: "🎫 First concert"
+      description: "Green Day on the Hatch Shel. Turned into a riot. https://www.boston.com/community/readers-say/2024/09/09/30-years-later-readers-recall-the-1994-green-day-riot-concert-at-the-hatch-shell/"
+
+"1995-06-14":
+    - headline: "🎓 Graduated High School"
+      description: "Public high school"
+      based: "Norwood, MA"
+      doing: "High school student"
+      association: "NHS"
+
+
+# "1992-09-20":
+#     - headline: "🪪 Drivers license"
+#       description: "The day I passed my drivers test, my parents looked stricken."
+
+"1995-05-30":
+    - headline: "Summer work"
+      description: "Papa Gino's"
+      doing: ""
+      based: "Norwood"
+      association: ""
+
+"1995-08-15":
+    - headline: "🏫 Left for college"
+      based: "Syracuse, NY"
+      doing: "College student"
+      association: "Syracuse University"
+      description: ""
+
+"1997-01-05":
+    - headline: "Studied Abroad"
+      description: "Studying at the Villa Rossa In Florence"
+      doing: ""
+      based: "Firenze, Italia"
+      association: ""
+
+"1997-05-30":
+    - headline: "Summer work"
+      description: "xxx"
+      doing: ""
+      based: "Norwood"
+      association: ""
+
+"1997-08-15":
+    - headline: "🏫 Left for college"
+      based: "Syracuse, NY"
+      doing: "College student"
+      association: "Syracuse University"
+      description: ""
+
+"1998-05-30":
+    - headline: "Summer work"
+      description: "xxx"
+      doing: ""
+      based: "Norwood"
+      association: ""
+
+"1994-06-17":
+    - headline: "🚙 O.J. Simpson Jeep Chase"
+      description: "O.J. Simpson flees in a white Ford Bronco, televised live across the U.S."
+      doing: ""
+      based: "Los Angeles, CA"
+      association: ""
+
+"1997-08-31":
+    - headline: "💔 Death of Princess Diana"
+      description: "Princess Diana dies in a car crash in Paris, an event that shocks the world."
+      doing: ""
+      based: "Paris, France"
+      association: ""
+
+"1998-08-15":
+    - headline: "🏫 Left for college"
+      based: "Syracuse, NY"
+      doing: "College student"
+      association: "Syracuse University"
+      description: ""      
+
+"1999-06-15":
+    - headline: "🎓 Graduated college"
+      description: "Bachelor of Fine Arts in Computer Graphics, Photography"
+      doing: ""
+      based: "Syracuse, NY"
+      association: ""
+
+"1999-12-28":
+    - headline: "🚙 Working abroad visa"
+      based: "Edinburgh, Scotland"  
+
+"1999-12-31":
+    - headline: "💥 Y2K"
+      description: "We survived!"
+
+"2001-09-11":
+    - headline: "9/11"
+      description: "The terrorist attacks on the World Trade Center and the Pentagon"
+
+"2010-04-25":
+    - headline: "Met Dr. Claire Coleman"
+      description: "We met at a pub in Paddington"
+
+"2012-03-30":
+    - headline: "👶 Finnian born"
+      description: "Born in Auckland, NZ"
+
+"2013-09-20":
+    - headline: "👶 Theo born"
+      description: "Born in Auckland, NZ. Shares birthday with his grandfather"
+
+# Sports Championships - Red Sox
+"1986-10-25":
+    - headline: "⚾️ Bill Buckner"
+      description: "The ball goes through his legs"
+
+"2004-10-27":
+    - headline: "🧦⚾️ Red Sox WIN!"
+      description: "Reverse the curse. Beat the Cardinals 4-0"
+
+"2007-10-28":
+    - headline: "🧦⚾️ Red Sox WIN!"
+      description: "Beat the Rockies 4-0"      
+
+"2013-10-30":
+    - headline: "🧦⚾️ Red Sox WIN!"
+      description: "Beat the Dodgers 4-2"      
+
+"2018-10-28":
+    - headline: "🧦⚾️ Red Sox WIN!"
+      description: "Beat the Dodgers 4-1"      
+
+
+# Sports Championships - Patriots
+"1986-26-01":
+    - headline: "🏈 Super Bowl XX"
+      description: "First trip to the Super Bowl. Lost to the Chicago Bears 46-10"
+
+"1997-26-01":
+    - headline: "🏈 Super Bowl XXX"
+      description: "Lost to Brett Farve and the Packers 21-17"
+
+"2002-02-03":
+    - headline: "🏆🏈 Super Bowl XXXVI"
+      description: "1st ring v St Louis Rams. Won 20-17"      
+
+"2004-02-01":
+    - headline: "🏆🏈 Super Bowl XXXVIII"
+      description: "2nd ring v Carolina Panthers. Won 32-29"      
+
+"2005-02-05":
+    - headline: "🏆🏈 Super Bowl XXXIX"
+      description: "3rd ring v Philladelphia Eagles - Back to Back. Won 24-21"      
+
+"2008-02-03":
+    - headline: "🏈 Super Bowl XLII"
+      description: "Perfect season - Lost to NY Giants 17-14. Damn that Eli Manning!"      
+
+"2012-02-05":
+    - headline: "🏈 Super Bowl XLVI"
+      description: "2nd lost to NY Giants 17-21. Damn that Eli Manning, again!"       
+
+"2015-02-01":
+    - headline: "🏆🏈 Super Bowl XLIX"
+      description: "4th ring v Seattle Seahawks. Won 43-8"      
+
+"2017-02-01":
+    - headline: "🏆🏈 Super Bowl LI"
+      description: "5th ring v Atlanta Hawks - Dramic comeback. Won 34-28"      
+      
+"2019-02-03":
+    - headline: "🏆🏈 Super Bowl LIII"
+      description: "6th ring v LA Rams. Won 13-3"      
+   
+
+# Sports Championships - Celtics
+"1984-06-12":
+    - headline: "☘️ Championship #15"
+      description: "Beat LA! Won in 7"
+
+"1986-06-08":
+    - headline: "☘️ Championship #16"
+      description: "Won in 6 against Houston. Beat the Rockets 4-2"
+
+"2008-06-17":
+    - headline: "☘️ Championship #17"
+      description: "Beat LA! with Paul Pierce. Won in 6"
+
+"2024-06-17":
+    - headline: "☘️ Championship #18"
+      description: "Won with JT and JB. Won in 5. Beat the Mavericks 4-1"
+ 
+
+# Sports Championships - England Rugby      
+"2003-11-22":
+    - headline: "🏉 England wins Rugby World Cup"
+      description: "Beat Australia in Australia in overtime"  
+
+# Sports Championships - Arsenal      
+"2002-05-04":
+    - headline: "🏆⚽️ FA Cup"
+      description: "Beat Chelsea 2-0 " 
+
+"2003-05-17":
+    - headline: "🏆⚽️ FA Cup"
+      description: "Beat Southampton 1-0" 
+      
+"2005-05-21":
+    - headline: "🏆⚽️ FA Cup"
+      description: "Beat Manchester United 5-4 on pens (aet: after 0-0 draw)" 
+
+"2014-05-17":
+    - headline: "🏆⚽️ FA Cup"
+      description: "Beat Hull City 3-2 (aet) " 
+
+"2015-05-30":
+    - headline: "🏆⚽️ FA Cup"
+      description: "Beat Aston Villa 4-0" 
+
+"2017-05-27":
+    - headline: "🏆⚽️ FA Cup"
+      description: "Beat Chelsea 2-1" 
+
+"2020-08-01":
+    - headline: "🏆⚽️ FA Cup"
+      description: "Beat Chelsea 2-1" 
+      
+"2002-05-08":
+    - headline: "🏆⚽️ Premeirship Champions"
+      description: "Arsenal finished 7 points ahead of Liverpool"
+
+"2004-04-25":
+    - headline: "⚽️ Premeirship Champions"
+      description: "The Invincibles season – unbeaten in all 38 matches" 
+      
+"2006-05-17":
+    - headline: "⚽️ Champions League final"
+      description: "Lost to Barcelona in Paris"       
+
+
+# Sports Championships - All Blacks      
+"2011-10-23":
+    - headline: "🏉 All Blacks win Rugby World Cup"
+      description: "Beat France in Eden Park 20-12"  
+
+"2015-10-31":
+    - headline: "🏉 All Blacks win Rugby World Cup"
+      description: "Beat Australia 34-17 in Twickenham"
+
+# Movements
+"2000-04-01":
+    - headline: "Moved to Hammersmith, London"
+      description: "Shared flat in Sycamore Gardens"
+
+"2000-06-01":
+    - headline: "Moved to Islington, London"
+      description: "Shared flat in Tysoe Street"
+
+"2004-04-01":
+    - headline: "Moved to Battersea, London"
+      description: "Shared flat in Queenstown Road"
+
+"2007-02-01":
+    - headline: "Moved to Melbourne, Australia"
+      description: "Shared flat in Eureka Tower"
+
+"2007-08-01":
+    - headline: "Moved to Sydney, Australia"
+      description: "Shared flat in Wooloomooloo"
+
+"2008-08-01":
+    - headline: "Moved to Bondi, Australia"
+      description: "Solo flat"      
+
+"2009-08-01":
+    - headline: "South East Asia adventure"
+      description: "Thailand then Singapore with Dave and Jenny"    
+
+"2010-01-01":
+    - headline: "Moved to Tamarama, Australia"
+      description: "Shared flat"      
+
+"2011-02-01":
+    - headline: "Moved to Bondi, Australia"
+      description: "Shared flat with Claire & Andy"  
+
+"2011-11-04":
+    - headline: "Moved to Auckland, NZ"
+      description: "Starting a family in Onehunga"  
+
+"2017-01-19":
+    - headline: "Moved to Hamilton, NZ"
+      description: "Claire to start work with the Uni of Waikato"  
+
+"2019-12-19":
+    - headline: "Bought a house"
+      description: "Living in Hamilton East"  
+
+
+# Work 
+
+
+# Presidents
+"1981-01-20":
+    - headline: "🇺🇸 Reagan inaugurated"
+      description: "Reagan becomes the 40th President of the United States"
+"1989-01-20":
+    - headline: "🇺🇸 GH Bush inaugurated"
+      description: "Bush becomes the 41st President of the United States"
+"1993-01-20":
+    - headline: "🇺🇸 Clinton inaugurated"
+      description: "Clinton becomes the 42nd President of the United States"
+"2001-01-20":
+    - headline: "🇺🇸 GW Bush inaugurated"
+      description: "Bush becomes the 43rd President of the United States"
+"2009-01-20":
+    - headline: "🇺🇸 Obama inaugurated"
+      description: "Obama becomes the 44th President of the United States"
+"2017-01-20":
+    - headline: "🇺🇸 Trump inaugurated"
+      description: "Trump becomes the 45th President of the United States"
+"2021-01-20":
+    - headline: "🇺🇸 Biden inaugurated"
+      description: "Biden becomes the 46th President of the United States"
+"2025-01-20":
+    - headline: "🇺🇸 Trump inaugurated"
+      description: "Trump becomes the 47th President of the United States"
+
+# Trips
+
+
+
+# World leaders
+"1997-05-02":
+    - headline: "🇬🇧 Tony Blair elected"   
+      description: "The 50th Prime Minister of the United Kingdom"
+"2007-06-27":
+    - headline: "🇬🇧 Gordon Brown elected"
+      description: "The 51st Prime Minister of the United Kingdom"
+"2007-11-24":
+    - headline: "🇦🇺 Kevin Rudd elected"
+      description: "The 27th Prime Minister of Australia"
+"2010-06-24":
+    - headline: "🇦🇺 Julia Gillard elected"
+      description: "The 27th Prime Minister of Australia"
+"2008-11-20":
+    - headline: "🥝 John Key elected"
+      description: "The 40th Prime Minister of New Zealand"
+"2016-10-26":
+    - headline: "🥝 Bill English elected"
+      description: "The 41st Prime Minister of New Zealand"
+"2017-10-26":
+    - headline: "🥝 Jacinda Arden elected"  
+      description: "The 42nd Prime Minister of New Zealand"
+"2023-01-25":
+    - headline: "🥝 Chris Hipkins becomes Prime Minister"
+      description: "Replaces Jacinda Arden after her resignation"
+"2023-10-26":
+    - headline: "🥝 Christopher Luxon elected"
+      description: "The 43rd Prime Minister of New Zealand"

@@ -1,0 +1,9 @@
+baseURL = 'https://tonysusi.github.io/life-in-weeks/'
+languageCode = 'en-us'
+title = 'My Life in Weeks'
+disableKinds = ["taxonomy", "taxonomy"]
+enableEmoji = true
+
+
+[params]
+author = "Gina Trapani"
