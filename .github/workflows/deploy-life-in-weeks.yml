@@ -1,0 +1,74 @@
+name: Build and Deploy Life in Weeks
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'life-in-weeks/**'
+      - '.github/workflows/deploy-life-in-weeks.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup submodule for building
+        run: |
+          # If life-in-weeks exists but is not a submodule, we need to restore it
+          if [ ! -f "life-in-weeks/.git" ] && [ -d "life-in-weeks" ]; then
+            # Remove the built files temporarily
+            rm -rf life-in-weeks
+          fi
+          # Initialize and update submodules
+          git submodule update --init --recursive
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.143.1'
+          extended: false
+
+      - name: Build Hugo site
+        working-directory: ./life-in-weeks
+        run: hugo --gc --minify --baseURL https://tonysusi.github.io/life-in-weeks/
+
+      - name: Deploy built site to life-in-weeks directory
+        run: |
+          # Save the built site
+          cp -r life-in-weeks/public /tmp/life-in-weeks-built
+          # Remove the submodule from git index (but keep .gitmodules for next run)
+          # Check if it's tracked as a submodule
+          if git ls-files --error-unmatch life-in-weeks >/dev/null 2>&1 && [ -f "life-in-weeks/.git" ]; then
+            # Remove from index but keep .gitmodules
+            git rm --cached life-in-weeks 2>/dev/null || true
+          fi
+          # Remove the directory
+          rm -rf life-in-weeks
+          # Copy the built Hugo site to life-in-weeks/
+          # This makes it accessible at /life-in-weeks/ on GitHub Pages
+          cp -r /tmp/life-in-weeks-built life-in-weeks
+          # Remove any .git files that might have been copied
+          find life-in-weeks -name ".git" -type f -delete 2>/dev/null || true
+
+      - name: Commit and push built site
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          # Add the built files (they replace the submodule)
+          git add -A life-in-weeks
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Build and deploy life-in-weeks site [skip ci]"
+            git push
+          fi
+
